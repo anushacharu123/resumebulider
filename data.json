@@ -1,0 +1,51 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech(Computer Science & Engineering)",
+      "institute":"Siddharatha College of Engineering",
+      "data":["2015-19","75%"]
+    },
+    {
+      "degree":"Intermediate(M.P.C)",
+      "institute":"Sai jyothi junior College",
+      "data":["2013-15","72%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Sri sai ram vidhyalaya",
+      "data":["2013","93%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "set":["Java","C","Python","c++"]
+    },
+    {
+      "title":"Web Technologies",
+      "set":["HTML","CSS","PHP","javascript"]
+    },
+    {
+      "title":"Data Bases",
+      "set":["Sql","mySql","Oracle","NoSql"]
+    },
+    {
+      "title":"Operating Systems",
+      "set":["Windows","DOS","Linux","Mac"]
+    }
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got First Prize in PPT presentation."
+    },
+    {
+      "achievedData":"Got First Prize in Technical quiz."
+    },
+    {
+      "achievedData":"Got First Prize in Running compitation."
+    }
+  ]
+}
